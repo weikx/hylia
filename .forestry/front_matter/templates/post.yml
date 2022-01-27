@@ -20,3 +20,5 @@ fields:
   config:
     maxSize: 64
   label: image
+pages:
+- src/posts/test-post.md
